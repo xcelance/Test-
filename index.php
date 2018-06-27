@@ -1,3 +1,1 @@
-<?php
-echo"THIS IS A TEST FILE";
-?>
+index.php
